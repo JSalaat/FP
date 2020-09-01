@@ -2,7 +2,6 @@
 //immutablejs.js
 // PART 1. Getting and Setting values
 // Given the following object, make an update that turns name to 'Mal' and role to 'Captain'
-let Immutable = require('immutable');
 let List = Immutable.List;
 
 
